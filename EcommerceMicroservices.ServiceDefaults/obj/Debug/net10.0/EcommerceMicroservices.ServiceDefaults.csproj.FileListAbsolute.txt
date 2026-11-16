@@ -1,0 +1,12 @@
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\bin\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.deps.json
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\bin\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.dll
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\bin\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.pdb
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.csproj.AssemblyReference.cache
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.AssemblyInfoInputs.cache
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.AssemblyInfo.cs
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.dll
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\refint\EcommerceMicroservices.ServiceDefaults.dll
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\EcommerceMicroservices.ServiceDefaults.pdb
+E:\Projects\Dot Net Projects\EcommerceMicroservices\EcommerceMicroservices.ServiceDefaults\obj\Debug\net10.0\ref\EcommerceMicroservices.ServiceDefaults.dll

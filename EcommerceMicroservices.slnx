@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CustomerWebApi/CustomerWebApi.csproj" />
+  <Project Path="EcommerceMicroservices.AppHost/EcommerceMicroservices.AppHost.csproj" />
+  <Project Path="EcommerceMicroservices.ServiceDefaults/EcommerceMicroservices.ServiceDefaults.csproj" />
+</Solution>
